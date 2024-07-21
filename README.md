@@ -3,6 +3,10 @@
 This is the most comprehensive "Zero to Hero" Zustand (Slices pattern) App.
 You will learn everything related to it through practical examples, best practices, and integrate it with TypeScript and React as quickly as possible to create an eCommerce application with an amazing modern reactive shopping cart and products page.
 
+# Zustand
+
+A small, fast, and scalable bearbones state management solution. Zustand has a comfy API based on hooks. It isn't boilerplatey or opinionated, but has enough convention to be explicit and flux-like.
+
 <h3 align="center"> 📸 Screenshot</h3>
   
 ![product page](/product-screen.png)
