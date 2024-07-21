@@ -1,11 +1,11 @@
 # React + TypeScript + Vite Zustand App
 
-This is the most comprehensive "Zero to Hero" Zustand App.
+This is the most comprehensive "Zero to Hero" Zustand (Slices pattern) App.
 You will learn everything related to it through practical examples, best practices, and integrate it with TypeScript and React as quickly as possible to create an eCommerce application with an amazing modern reactive shopping cart and products page.
 
 <h3 align="center"> 📸 Screenshot</h3>
   
-  ![product page](/product-screen.png)
+![product page](/product-screen.png)
   
 ![add product](/add-item.png)
 
@@ -16,7 +16,7 @@ You will learn everything related to it through practical examples, best practic
 ## 🚨 Tech
 
 - React Vite
-- Zustand
+- Zustand (Slices pattern) using middleware (devtools, persist,subscribeWithSelector,immer)
 - tailwindcss
 - lucide-react
 - clsx
